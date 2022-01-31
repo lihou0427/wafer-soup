@@ -1,14 +1,9 @@
-Building Websites in GitHub
-
+For process engineers
 
 # Building Websites in GitHub
 
 ## Description
 This is an example website built while learning how to use Jekyll and GitHub Pages.
+More details are available from the [About page](about).
 
-More details about the project are available from the [About page](about).
-
-
-
-wafer-soup
-a visualization app for semiconductor wafer metrology
+wafer-soup hosts a visualization app for semiconductor wafer metrology
