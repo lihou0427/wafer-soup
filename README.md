@@ -5,4 +5,6 @@ a visualization app for semiconductor wafer metrology
 
 Vanilla text may contain *italics* and **bold words**.
 
+More details are available from the [About page](about).
+
 More details are available from the [Index page](index).
